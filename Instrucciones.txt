@@ -1,0 +1,2 @@
+Se tiene una empresa que fabrica ventanas. Para calcular los precios se ocupan complejas formulas, que calculadas a mano demoran mucho. 
+El equipo de desarollo de su empresa programa la "Calculadora de Ventanas", se le pide a usted que testee con pruebas unitarias los métodos: calculoL15menor100, calculoL15mayor100, calculoL20mayor100, calculoL25menor100. Seguido a eso emita un reporte de sus resultados. En caso de que los resultados discrepen de los resultados originales, explique donde se encuentra el fallo.
